@@ -69,10 +69,6 @@ What you’ll see:
 - `src/main.py` uses `matplotlib` interactive windows (`plt.show()`). If you run this in a headless environment (like some servers), you may need to switch to a non-interactive backend.
 - If you want reproducible results, the split is controlled by `random_state=42`.
 
-## License
-
-No license file is included yet. Add one if you intend others to reuse this project.
-
 ## Author
 
 - Name: Akshay Kumar Singh
