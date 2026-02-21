@@ -75,4 +75,5 @@ No license file is included yet. Add one if you intend others to reuse this proj
 
 ## Author
 
+- Name: Akshay Kumar Singh
 - GitHub: [@NOObMasTer18](https://github.com/NOObMasTer18)
